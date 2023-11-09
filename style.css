@@ -1,0 +1,136 @@
+.home{
+    width: 100%;
+    margin-bottom: 3rem;
+}
+
+*{
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+      
+}
+.header{
+    text-align: center;
+    padding-top: 1rem;
+    width: 100%;
+    height:3rem;
+    background-color: rgb(151, 162, 162);
+}
+
+ 
+
+.home .inhome{
+    padding: 20px;
+    padding-left: 15%;
+    text-align:left;
+  
+    width: 500px;
+    height: 300px;
+    /* background-color:rgb(221, 214, 214); */
+    margin: auto;
+    margin-top: 200px;
+}
+.home .inhome p{
+    margin-top: 1rem;
+}
+.home .inhome .atag{
+    margin-top: 1rem;
+} 
+
+.home .inhome a{
+    color: #f1e5e5;
+    padding: 7px;
+    padding-right: 2rem;
+    margin-right: 2rem;
+    width: 50%;
+    border: solid;
+    background-color: rgb(42, 164, 91);
+}
+
+/* ////////////////////////// */
+
+.loginsec{
+    width: 100%;  
+}
+
+.loginsec .fullform{
+     
+    margin-left: 37%;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    width: 600px;
+    height: 300px;
+    /* border: solid; */
+    
+    /* background-color: aliceblue; */
+}
+.loginsec .fullform h1{
+    margin-left: 20%;
+}
+.loginsec .fullform form{
+    padding: 1.5rem;
+    width: 60%;
+    text-align:right;
+    /* border: solid; */
+    float:left;
+  
+}
+
+.loginsec .fullform form .sp{
+    float: left;
+    width:40% ;
+    /* border: solid; */
+}
+ 
+
+.loginsec .fullform form .box{
+    width: 50%;
+}
+.loginsec .fullform form .boxr{
+  padding: 0.3rem;
+  margin-right: 1rem;
+  margin-top: 1rem;
+}
+.boxr{
+    padding: 0.3rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+  }
+.loginsec .fullform .mesdiv{
+    width: 30%;
+    height: 200px;
+    /* border: solid black; */
+    margin-left: auto;
+
+}
+
+/* ///////////////////////// */
+
+
+.sect{
+    margin: auto;
+    width: 50%;
+    height:50vh;
+    border: solid;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+     
+}
+
+.sect table{
+    width: 400px;
+    margin: auto;
+    border: solid;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+.sect table thead th{
+    border: solid; 
+}
+.sect table tbody tr{
+    text-align: center;
+}
+
+.sect table tbody tr td{
+    border: solid; 
+}
